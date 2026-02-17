@@ -1,7 +1,7 @@
 """
 Finite element script to find the evolution of the velocity and height fields in the river
 This script is needed to generate the velocity field used by every other script in the project.
-Doing so can take several hours, so it's recommended to use the provided example
+Doing so can take several hours
 
 ---------------------- Assumptions ---------------------------------
 - THIS SCRIPT WAS ONLY TESTED IN A LINUX OPERATING SYSTEM 
